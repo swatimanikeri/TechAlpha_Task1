@@ -1,0 +1,35 @@
+.albumContainer {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .albumImage {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .albumInfo {
+    margin-top: 10px;
+    color: #000; 
+  }
+  
+  .albumInfo h3 {
+    font-size: 16px; 
+    margin: 5px 0;
+    color:white;
+    font-weight: 800;
+  }
+  
+  .albumInfo p {
+    font-size: 14px; 
+    margin: 5px 0;
+    color:grey;
+  }
+  
